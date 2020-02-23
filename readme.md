@@ -7,3 +7,6 @@ The aim of this project is to train a convolutional neural network to play Donke
 To use and work on this project you will need to install a couple python packages. This is under the assumption that you already have python3 installed.
 ##### OpenCV
 Open your preferred shell and run the command "pip3 install opencv-python"
+##### TensorFlow
+1. Install Virtualenv by opening your preferred shell and running the command "pip3 install virtualenv"
+2. Install TensorFlow by opening your preferred shell and running the command "pip3 install --user --upgrade tensorflow"
